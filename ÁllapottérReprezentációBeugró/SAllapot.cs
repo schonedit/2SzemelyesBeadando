@@ -11,6 +11,7 @@ namespace ÁllapottérReprezentációBeugró
     /// Adott egy 3 × 3-as sakktabla, a felso sorban 3 vilagos, az also sorban 3 sotet
     /// huszarral.Csereljuk meg a 6 figurat ugy, hogy a sotet es vilagos figurakkal
     /// felvaltva lehet lepni!
+    Ez az á.rep. tuti nem jó így nem fejeztem be!
     /// </summary>
     internal class SAllapot : AbsztraktAllapot
     {
